@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola a todos 👋
 
-<!--
-**YeisonGonz/yeisonGonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Yeison Rascado, un joven programadror de 21 anos, interesado en el mundo del desarrollo web.
 
-Here are some ideas to get you started:
+### Estudios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 2 Bachillerato Ciemtifico
+- Tecnico Superior de desarrollo de aplicaciones Web | DAW
+- Actualmente estudiando una especialidad en Inteligencia Artificial y Big Data
+
+### Mis herramientas favoritas
+
+Estas son las herramientas que utilizo con frecuencia en mis proyectos para desarrollar aplicaciones que integran tanto el frontend como el backend, así como para desplegar mis propios servicios y proyectos
+
+| Categoría | Herramientas                                                                 |
+|-----------|-----------------------------------------------------------------------------|
+| **Backend** | ![My Tools](https://skillicons.dev/icons?i=fastapi,postman)               |
+| **Frontend**| ![My Tools](https://skillicons.dev/icons?i=react,vue,vite,tailwind,bootstrap) |
+| **Despliegue** | ![My Tools](https://skillicons.dev/icons?i=docker)                       |
+
+
+### Lenguajes mas usados
+
+Aqui una lista de los lenguajes que mas e usado.
+
+![My Tools](https://skillicons.dev/icons?i=python,java,js,ts,php)
