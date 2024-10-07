@@ -14,7 +14,7 @@ Estas son las herramientas que utilizo con frecuencia en mis proyectos para desa
 
 | Categoría | Herramientas                                                                 |
 |-----------|-----------------------------------------------------------------------------|
-| **Backend** | ![My Tools](https://skillicons.dev/icons?i=fastapi,postman)               |
+| **Backend** | ![My Tools](https://skillicons.dev/icons?i=fastapi,postman,mysql)               |
 | **Frontend**| ![My Tools](https://skillicons.dev/icons?i=react,vue,vite,tailwind,bootstrap) |
 | **Despliegue** | ![My Tools](https://skillicons.dev/icons?i=docker)                       |
 
