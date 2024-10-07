@@ -4,7 +4,7 @@ Soy Yeison Rascado, un joven programadror de 21 anos, interesado en el mundo del
 
 ### Estudios
 
-- 2 Bachillerato Ciemtifico
+- 2 Bachillerato Cientifico
 - Tecnico Superior de desarrollo de aplicaciones Web | DAW
 - Actualmente estudiando una especialidad en Inteligencia Artificial y Big Data
 
