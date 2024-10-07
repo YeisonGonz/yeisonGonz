@@ -1,6 +1,6 @@
 # Hola a todos 👋
 
-Soy Yeison Rascado, un joven programadror de 21 anos, interesado en el mundo del desarrollo web.
+Soy Yeison Rascado, un joven programadror de 21 años, interesado en el mundo del desarrollo web.
 
 ### Estudios
 
