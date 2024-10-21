@@ -1,6 +1,6 @@
 # Hola a todos 👋
 
-Soy Yeison Rascado, un joven programadror de 21 años, interesado en el mundo del desarrollo web.
+Soy Yeison Rascado, un joven programadror de 21 años, interesado en el mundo del desarrollo web. Esta es mi cuenta profesional, tambien cuento con una cuenta mas informal que use para aprender y comenzar en el desarrollo -> [HellLonely](https://github.com/HellLonely)
 
 ### Estudios
 
@@ -14,9 +14,9 @@ Estas son las herramientas que utilizo con frecuencia en mis proyectos para desa
 
 | Categoría | Herramientas                                                                 |
 |-----------|-----------------------------------------------------------------------------|
-| **Backend** | ![My Tools](https://skillicons.dev/icons?i=fastapi,postman,mysql)               |
+| **Backend** | ![My Tools](https://skillicons.dev/icons?i=fastapi,flask,postman,mysql,mongodb)               |
 | **Frontend**| ![My Tools](https://skillicons.dev/icons?i=react,vue,vite,tailwind,bootstrap) |
-| **Despliegue** | ![My Tools](https://skillicons.dev/icons?i=docker)                       |
+| **Despliegue Web** | ![My Tools](https://skillicons.dev/icons?i=docker,nginx)                       |
 
 
 ### Lenguajes mas usados
